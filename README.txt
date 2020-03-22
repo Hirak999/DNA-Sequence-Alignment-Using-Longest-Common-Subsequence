@@ -1,6 +1,6 @@
 The main code is in "PROJECT-FINAL.cpp"
 
-The code needs "File1" file and "File2" file in the repository needs to be in the same folder in which the code is
+The code needs "File1" file and "File2" file to be in the same folder in which the code is
 
 The code takes the length of DNA strands as input, for example if the length of the first strand is 100 give 100 as input and if the length of the second strand is 200 give 200 as the next input
 
