@@ -71,7 +71,7 @@ char X[p+1];
 char Y[q+1] ;
 
 string line,m;
-  ifstream myfile ("file.txt"); //these are the files that declared in the same location where it is saved
+  ifstream myfile ("file1.txt"); //these are the files that declared in the same location where it is saved
   if (myfile.is_open())
   {
     while ( getline (myfile,line) )
@@ -89,7 +89,7 @@ string line,m;
 
 
 string line1,n;
-  ifstream myfile1 ("file1.txt");
+  ifstream myfile1 ("file2.txt");
   if (myfile1.is_open())
   {
     while ( getline (myfile1,line1) )
